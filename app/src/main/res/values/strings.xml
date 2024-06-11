@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+    <string name="temperature_text">Temperature: %.2f °C</string>
+    <string name="weather">Weather</string>
+    <string name="profile">Profile</string>
+    <string name="loading">Loading...</string>
+    <string name="profile_page">Profile Page</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="loading_city">Loading city...</string>
+    <string name="username_text">Username: user</string>
+    <string name="password_text">Password: password</string>
+    <string name="hobby_text">Hobby: Meteorologi</string>
+</resources>
